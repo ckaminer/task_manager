@@ -4,6 +4,6 @@ tasks:
   title: Test 1
   description: First task test
 - id: 2
-  title: Lets go
+  title: Lets gooo
   description: Adding another task
-total: 2
+total: 3
